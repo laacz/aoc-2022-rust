@@ -9,3 +9,7 @@ Rust is not my go-to language. However, occasionally coding in it gives me some 
 ## Day 1
 
 Easy.
+
+## Day 2
+
+Easy. Crime: irresponsive use of an enum.
