@@ -2,9 +2,9 @@
 
 These are solutions for the [Advent of Code 2022](https://adventofcode.com/2022) challenges.
 
-My main approach is [using Go](https://github.com/laacz/aoc-2022). This might not even see the light of github. 
+My main try this year [is using Go](https://github.com/laacz/aoc-2022). This might not get finished.
 
-Rust is not my go-to language. However, occasionally coding in it gives me some weird pleasure.
+Rust is not my go-to language. However, occasionally coding in it gives me some weird pleasure, though I have to take a break after a session with it. It's rewarding, but learning curve is steep - takes my breath away ;)
 
 ## Day 1
 
