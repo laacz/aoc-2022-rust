@@ -13,3 +13,7 @@ Easy.
 ## Day 2
 
 Easy. Crime: irresponsive use of an enum.
+
+## Day 3
+
+Easy. Guilty of not figuring out better way to get the priority from a char.
