@@ -21,3 +21,7 @@ Easy. Guilty of not figuring out better way to get the priority from a char.
 ## Day 4
 
 Ranges rock.
+
+## Day 5
+
+Just bruted it. Got into fight with types and borrowing. Will read up before next one.
