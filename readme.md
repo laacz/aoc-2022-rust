@@ -25,3 +25,7 @@ Ranges rock.
 ## Day 5
 
 Just bruted it. Got into fight with types and borrowing. Will read up before next one.
+
+## Day 6
+
+Easy. Spent a bit on thinking about finding unique items. HashSet to the rescue.
