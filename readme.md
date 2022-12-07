@@ -29,3 +29,7 @@ Just bruted it. Got into fight with types and borrowing. Will read up before nex
 ## Day 6
 
 Easy. Spent a bit on thinking about finding unique items. HashSet to the rescue.
+
+## Day 7
+
+Hellow borrow checker, my old friend...
